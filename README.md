@@ -1,5 +1,6 @@
 # SQL-
 각 질의에 대해 Sql Query 로 작성. (질의에 대한 정확한 답은 아님)
+질의에 답변을 못한 문제들도 존재..
 
 ###### 실습 DB는 Mysql로 하였으며 mysqlworkbench Tool 과 vscode에서 mysql을 연결해 사용
 
